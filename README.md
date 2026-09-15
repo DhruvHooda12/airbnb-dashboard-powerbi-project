@@ -64,4 +64,4 @@ The interesting part of this project isn't the KPI cards — it's the layered st
 
 ## 👤 Author
 
-**Chirag Gulati** — Founder, [Demox Media](https://demoxmedia.com)
+**Dhruv Hooda** —(dhruvh.work@gmail.com)
